@@ -4,7 +4,7 @@ I'm Tuan.
 A passionate fullstack developer
 
 
-🌱 I’m currently learning bootraps, Spring Boot
+🌱 I’m currently learning bootraps, Spring Boot, .NET, React
 
 📫 How to reach me tugia24052004@gmail.com
 
